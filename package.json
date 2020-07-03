@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/rodrigograca31/node-xls-to-json.git"
+		"url": "git+https://github.com/marxros/node-xls-to-json-3.git"
 	},
 	"keywords": [
 		"xls",
@@ -16,14 +16,17 @@
 		"node"
 	],
 	"author": {
-		"name": "Rodrigo Graça",
-		"url": "https://rodrigograca.com"
+		"name": "Marx Roberto",
+		"url": "https://github.com/marxros"
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/rodrigograca31/node-xls-to-json/issues"
+		"url": "https://github.com/marxros/node-xls-to-json-3.git/issues"
 	},
-	"homepage": "https://github.com/rodrigograca31/node-xls-to-json#readme",
+	"homepage": "https://github.com/marxros/node-xls-to-json-3.git#readme",
+	"publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
 	"dependencies": {
 		"csv": "~0.3.7",
 		"xlsx": "0.12.8"
