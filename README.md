@@ -1,13 +1,11 @@
 # node-xls-json
 
-[![Build Status](https://travis-ci.org/rodrigograca31/node-xls-to-json.svg?branch=master)](https://travis-ci.org/rodrigograca31/node-xls-to-json) [![npm version](https://badge.fury.io/js/xls-to-json.svg)](https://www.npmjs.com/package/xls-to-json)
-
-Converting xls file to json files using nodejs
+Converting xls file to json files using nodejs. Returning the original values from the spreadsheet.
 
 ## Install
 
 ```
-  npm install xls-to-json
+  npm install xls-to-json-3
 ```
 
 ## Usage

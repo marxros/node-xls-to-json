@@ -1,7 +1,7 @@
 {
-	"name": "xls-to-json",
-	"version": "0.5.5",
-	"description": "Converting xls file to json files using nodejs.",
+	"name": "xls-to-json-3",
+	"version": "0.0.1",
+	"description": "Converting xls file to json files using nodejs. Returning the original values from the spreadsheet.",
 	"main": "index.js",
 	"scripts": {
 		"test": "mocha"
