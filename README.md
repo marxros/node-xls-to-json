@@ -28,6 +28,8 @@ Converting xls file to json files using nodejs. Returning the original values fr
 
 In config object, you have to enter an input path. But If you don't want to output any file you can set to `null`.
 
+Original Package: https://github.com/rodrigograca31/node-xls-to-json
+
 ## License
 
 MIT [@chilijung](http://github.com/chilijung)
